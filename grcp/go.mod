@@ -1,4 +1,4 @@
-module grpc
+module github.com/hugo-baptista-cross/grpc-test/grcp
 
 go 1.21.3
 
